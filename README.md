@@ -40,6 +40,10 @@ Assignment W3A3:
 Problem statement: Sequence Detector FSM(1011)
 EDA Playground Link: https://www.edaplayground.com/x/XcD8
 
+Diagram: <img width="359" height="430" alt="1011_mealy_state_machine drawio" src="https://github.com/user-attachments/assets/447c0af1-e357-4e03-8cde-3de15af84021" />
+<img width="331" height="472" alt="1011_moore_state_machine drawio" src="https://github.com/user-attachments/assets/fe31e541-4b8e-421a-b9cb-1bee61cf2cbb" />
+
+
 Assignment W4A1:
 Problem statement: 8x8 Single Port RAM Design
 EDA Playground Link: https://www.edaplayground.com/x/6rPS
